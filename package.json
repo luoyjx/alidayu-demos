@@ -1,0 +1,25 @@
+{
+  "name": "alidayu-demos",
+  "version": "1.0.0",
+  "description": "alidayu demos ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luoyjx/alidayu-demos.git"
+  },
+  "keywords": [
+    "alidayu"
+  ],
+  "author": "luoyjx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/luoyjx/alidayu-demos/issues"
+  },
+  "homepage": "https://github.com/luoyjx/alidayu-demos#readme",
+  "dependencies": {
+    "alidayu-node": "^1.0.2"
+  }
+}
